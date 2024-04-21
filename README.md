@@ -6,8 +6,9 @@ Here are the simple steps :
 5) In Replace with type     ===========================     (These are 27 = signs )
 6) Click replace all n save the file as test.txt (imp : extension shouldn't be "md" but "txt")
 7) Download the test2.py file and keep test2.py and test.txt in desktop folder namely  a
-8) Install terminal from windows store & install python on it (check Youtube on how to install python on win terminal) 
-9) Install Google Keep >> Open google keep in browser > Tap 3 dots on top right of edge/chrome > Save & Share option in the bottom > Install Google Keep > Install
+8) Open test2.py in notepad and press ctrl+H and put qvd66 in replace what section and in replace with put ur user account name and replace all.
+9) Install terminal from windows store & install python on it (check Youtube on how to install python on win terminal) 
+10) Install Google Keep :  Open google keep page in browser > Tap 3 dots on top right of edge/chrome > Save & Share option in the bottom > Install Google Keep > Install
 9) Now type      cd /Desktop/a       in terminal  
 11) Now type    python  test2.py  > Press Enter
 12) It would automatically now do it's job, like opening google keep, copy/pasting etc
