@@ -19,4 +19,3 @@ Note : Make sure u have installed python and u can cross check it (Check youtube
 xiaomi-note-exporter has been created by  @nogiszd 
 (Major props to him)
 
-I'm not a coder/developer or even in computer stream, i just love playing around codes and scripts.
